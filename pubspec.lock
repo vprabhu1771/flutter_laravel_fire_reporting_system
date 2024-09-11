@@ -107,6 +107,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.10.0"
+  onesignal_flutter:
+    dependency: "direct main"
+    description:
+      name: onesignal_flutter
+      sha256: "55c1324a8ac9195cfe89abce66e2de69e6138fc3688ca6e57aacdfbd7a6d49cc"
+      url: "https://pub.dev"
+    source: hosted
+    version: "5.2.5"
   path:
     dependency: transitive
     description:
@@ -186,3 +194,4 @@ packages:
     version: "0.3.0"
 sdks:
   dart: ">=3.2.6 <4.0.0"
+  flutter: ">=1.10.0"
