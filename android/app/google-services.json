@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427528364227",
+    "project_id": "flutter-fire-report-system",
+    "storage_bucket": "flutter-fire-report-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427528364227:android:13a2efa09767b5a4d90276",
+        "android_client_info": {
+          "package_name": "com.example.flutter_laravel_fire_reporting_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYVwUZRdKUBUU4gT_53LvrudGYf01XEjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
